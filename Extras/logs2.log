@@ -1,0 +1,10 @@
+INFO 2017-07-26 12:07:21,688 - quadratic_formula(1, 0, -4)
+DEBUG 2017-07-26 12:07:21,688 - # Compute the discriminant
+DEBUG 2017-07-26 12:07:21,688 - # Compute the two roots
+DEBUG 2017-07-26 12:07:21,688 - # Return roots
+INFO 2017-07-26 12:08:39,658 - quadratic_formula(1, 0, 1)
+DEBUG 2017-07-26 12:08:39,658 - # Compute the discriminant
+DEBUG 2017-07-26 12:08:39,659 - # Compute the two roots
+INFO 2017-07-26 12:09:17,246 - quadratic_formula(1, 0, 1)
+DEBUG 2017-07-26 12:09:17,246 - # Compute the discriminant
+DEBUG 2017-07-26 12:09:17,246 - # Compute the two roots
